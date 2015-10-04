@@ -155,8 +155,7 @@ h1 {
 }
 
 footer p {
-  margin-top: 120px;
-  font-size: 0.8em;
+  display: none;
 }
 
 }
@@ -196,8 +195,7 @@ h1 {
 }
 
 footer p {
-  margin-top: 20px;
-  font-size: 0.8em;
+  display: none;
 }
 
 }
@@ -229,8 +227,7 @@ h1 {
  }  
 
 footer p {
-  margin-top: 30px;
-  font-size: 0.8em;
+  display: none;
 }
 
 }
@@ -250,8 +247,7 @@ h1 {
  }   
 
 footer p {
-  margin-top: 30px;
-  font-size: 0.95em;
+  display: none;
 }
 
 
@@ -267,9 +263,9 @@ footer p {
   height: 58px;
 }
 
-h1 {
-  font-size: 1.4em;
- }
+footer p {
+  display: none;
+}
 
 }
 
